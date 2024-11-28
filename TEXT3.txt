@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello pramila thangaraj
-=======
-hello
->>>>>>> 664747d0ab498720621e29a4319cc2f388cf2c52
